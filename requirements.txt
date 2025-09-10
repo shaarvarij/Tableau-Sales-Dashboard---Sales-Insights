@@ -1,0 +1,4 @@
+**Tableau** – Dashboard building  
+**Excel / CSV** – Data source from kaggle 
+**Python + Streamlit** (optional) – Hosting / deployment  
+**GitHub** – Version control & portfolio hosting  
